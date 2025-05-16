@@ -1,10 +1,15 @@
 # DATA-PIPELINE-DEVELOPMENT
 
 Company Name:CODTECH IT SOLUTIONS
+
 Name: Ayushi Verma
+
 Intern ID :CT6MTNYD
+
 Domain: Data Science 
+
 Durations: 6 months
+
 Mentor:Muzammil Ahmed
 
 # Description of the Task 1 Data Pipline Development:
