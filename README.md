@@ -8,9 +8,6 @@ Durations: 6 months
 Mentor:Muzammil Ahmed
 
 # Description of the Task 1 Data Pipline Development:
-Here is a concise description of the task from the provided Python script, staying under 600 words:
-
----
 
 ### Task Description: ETL Data Pipeline with Visualization and Modeling
 
